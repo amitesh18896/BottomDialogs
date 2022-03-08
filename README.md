@@ -31,7 +31,7 @@ repositories {
         url "https://jitpack.io"
     }
 }
-```
+```'
 
 And add the library to your module **build.gradle**:
 
